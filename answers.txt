@@ -2,7 +2,8 @@ Part 1: Write your message here from GitHub
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+Git fetches downloads, commits, files, and refs from a non-local repository to a local repository
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is a local version control and source code history manager, GitHub is a remote cloud-hosted collection of different
+git files
